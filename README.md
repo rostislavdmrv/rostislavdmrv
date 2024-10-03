@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rostislavdmrv&show_icons=true&locale=en" alt="rostislavdmrv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rostislavdmrv&" alt="rostislavdmrv" /></p>
-<p align="center">Made with ❤️ in Bulgaria</p>
+<p align="center">Made with ❤️</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
