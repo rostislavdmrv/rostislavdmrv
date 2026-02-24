@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rostislav Demirov</h1>
 
-<h3 align="center">A Passionate Software Development Student</h3>
+<h3 align="center">Junior Software Developer | Aspiring AI & Machine Learning Explorer</h3>
 <img align="right" alt="Coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rostislavdmrv&label=Profile%20views&color=0e75b6&style=flat" alt="rostislavdmrv" /> </p>
 
